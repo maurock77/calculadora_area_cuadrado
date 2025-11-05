@@ -1,0 +1,13 @@
+C:\Users\mauricio\source\repos\CalculadoraArea\bin\Debug\CalculadoraArea.exe.config
+C:\Users\mauricio\source\repos\CalculadoraArea\bin\Debug\CalculadoraArea.exe
+C:\Users\mauricio\source\repos\CalculadoraArea\bin\Debug\CalculadoraArea.pdb
+C:\Users\mauricio\source\repos\CalculadoraArea\bin\Debug\CalculadoraArea.xml
+C:\Users\mauricio\source\repos\CalculadoraArea\obj\Debug\CalculadoraArea.vbproj.AssemblyReference.cache
+C:\Users\mauricio\source\repos\CalculadoraArea\obj\Debug\CalculadoraArea.Form1.resources
+C:\Users\mauricio\source\repos\CalculadoraArea\obj\Debug\CalculadoraArea.Resources.resources
+C:\Users\mauricio\source\repos\CalculadoraArea\obj\Debug\CalculadoraArea.vbproj.GenerateResource.cache
+C:\Users\mauricio\source\repos\CalculadoraArea\obj\Debug\CalculadoraArea.vbproj.CoreCompileInputs.cache
+C:\Users\mauricio\source\repos\CalculadoraArea\obj\Debug\CalculadoraArea.exe
+C:\Users\mauricio\source\repos\CalculadoraArea\obj\Debug\CalculadoraArea.xml
+C:\Users\mauricio\source\repos\CalculadoraArea\obj\Debug\CalculadoraArea.pdb
+C:\Users\mauricio\source\repos\CalculadoraArea\obj\Debug\CalculadoraArea.exe.config
