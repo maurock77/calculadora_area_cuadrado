@@ -18,7 +18,7 @@ Aplicación desarrollada en **Visual Basic con Windows Forms** que permite calcu
 ## 🖥️ Tecnologías utilizadas
 
 - **Lenguaje:** Visual Basic .NET  
-- **IDE:** Visual Studio 2017  
+- **IDE:** Visual Studio 2022  
 - **Framework:** Windows Forms
 
 ---
