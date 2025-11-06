@@ -37,10 +37,12 @@ Aplicación desarrollada en **Visual Basic con Windows Forms** que permite calcu
 ## 📸 Capturas de pantalla
 
 ### Diseño
-*(Agregar imagen del formulario en modo diseño)*
+<img width="959" height="645" alt="image" src="https://github.com/user-attachments/assets/012f474f-5837-4c1d-b892-4370c1c0d2e1" />
+
 
 ### Ejecución
-*(Agregar imagen del formulario funcionando con datos ingresados)*
+<img width="596" height="560" alt="image" src="https://github.com/user-attachments/assets/07e46df4-305c-4d70-8e89-f688851ba39a" />
+
 
 ---
 
